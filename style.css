@@ -1,0 +1,49 @@
+.image img{
+    width: 300px;
+}
+h2{
+    letter-spacing: 0em;
+    font-size: 40px;
+    color: darkblue;
+    font-weight: 700;
+}
+.menu{
+    padding-left: 450px;
+}
+.menu a{
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text h1{
+    font-size: 70px;
+    font-weight: bold;
+    width:100%;
+}
+.paint1{
+    color: orange;
+}
+.paint2{
+        color: chartreuse;
+}
+.btn1{
+    width: 35%;
+    padding: auto;
+    border-radius: 12px;
+}
+.photo1{
+    width: 80%;
+   
+}
+.product-item{
+    border: none;
+    border-radius: 15px;
+}
+.form{
+    width: 80%;
+    height: auto;
+    border: 2px solid rebeccapurple;
+    margin-left: 130px;
+    background-color: black;
+}
+   
